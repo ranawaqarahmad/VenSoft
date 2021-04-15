@@ -183,6 +183,9 @@ nav {
 #main-footer {
   background-color: #d43349;
 }
+.hwd_img{
+  height: 150px;
+}
 @media (max-width: 480px) {
   .hero_section {
     height: 100% !important;
